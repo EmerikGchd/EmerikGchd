@@ -11,14 +11,15 @@ C'est ici que je partage mes expérimentations, mes projets terminés (et ceux q
 
 ### 🛠️ Mon Stack Technique
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,java,php,docker,vscode,mysql,github,git" />
+</p>
 
 ---
 
 ### 📊 Quelques Chiffres
 
-![Stats de mon GitHub](https://github-readme-stats.vercel.app/api?username=KCShinorik&show_icons=true&theme=radical)
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=KCShinorik&layout=compact&theme=radical)
+
 
 
 
