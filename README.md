@@ -18,14 +18,6 @@ C'est ici que je partage mes expérimentations, mes projets terminés (et ceux q
 ---
 # 👻 Pac-Man Contribution Graph Game
 
-![Active users count][active-users-shield]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Contributors][contributors-shield]][contributors-url]
-[![Stand with Palestine][stand-with-palestine-shield]][stand-with-palestine-url]
-[![Buy Me a Coffee][buy-me-a-coffee-shield]][buy-me-a-coffee-url]
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KCShinorik/KCShinorik/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KCShinorik/KCShinorik/output/pacman-contribution-graph.svg">
