@@ -16,7 +16,7 @@ C'est ici que je partage mes expérimentations, mes projets terminés (et ceux q
 </p>
 
 ---
-# 👻 Pac-Man Contribution Graph Game
+# 👻 Contribution 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KCShinorik/KCShinorik/output/pacman-contribution-graph-dark.svg">
