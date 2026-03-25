@@ -12,16 +12,29 @@ C'est ici que je partage mes expérimentations, mes projets terminés (et ceux q
 ### 🛠️ Mon Stack Technique
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,java,php,docker,vscode,mysql,github,git" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,java,php,vscode,mysql,github,git" />
 </p>
 
 ---
+# 👻 Pac-Man Contribution Graph Game
 
-### 📊 Quelques Chiffres
+![Active users count][active-users-shield]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Contributors][contributors-shield]][contributors-url]
+[![Stand with Palestine][stand-with-palestine-shield]][stand-with-palestine-url]
+[![Buy Me a Coffee][buy-me-a-coffee-shield]][buy-me-a-coffee-url]
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 
 
 
 
 
 
-> "Le meilleur moment pour planter un arbre était il y a 20 ans. Le deuxième meilleur moment est maintenant (ou après ce café)."
+
