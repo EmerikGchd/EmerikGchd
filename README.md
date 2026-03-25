@@ -9,7 +9,7 @@ C'est ici que je partage mes expérimentations, mes projets terminés (et ceux q
 
 ---
 
-### 🛠️ Mon Stack Technique
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,java,php,vscode,mysql,github,git" />
@@ -27,9 +27,9 @@ C'est ici que je partage mes expérimentations, mes projets terminés (et ceux q
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KCShinorik/KCShinorik/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KCShinorik/KCShinorik/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KCShinorik/KCShinorik/output/pacman-contribution-graph.svg">
 </picture>
 
 
