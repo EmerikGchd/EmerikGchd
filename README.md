@@ -19,8 +19,8 @@ C'est ici que je partage mes expérimentations, mes projets terminés (et ceux q
 # 👻 Contribution 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KCShinorik/KCShinorik/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KCShinorik/KCShinorik/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmerikGchd/EmerikGchd/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EmerikGchd/EmerikGchd/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KCShinorik/KCShinorik/output/pacman-contribution-graph.svg">
 </picture>
 
