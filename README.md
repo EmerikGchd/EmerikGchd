@@ -24,9 +24,6 @@ C'est ici que je partage mes expérimentations, mes projets terminés (et ceux q
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KCShinorik/KCShinorik/output/pacman-contribution-graph.svg">
 </picture>
 
-## 📊 Réel
-<img src="https://ghchart.rshah.org/EmerikGchd" />
-
 
 
 
